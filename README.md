@@ -1,4 +1,4 @@
-# Microsoft Ads MCP server by Two Minute Reports
+# Microsoft Ads MCP by Two Minute Reports
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-brightgreen.svg)](https://modelcontextprotocol.io)
 [![Claude.ai](https://img.shields.io/badge/Works%20with-Claude.ai-blueviolet.svg)](https://claude.ai)
